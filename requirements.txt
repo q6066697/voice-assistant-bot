@@ -1,0 +1,4 @@
+faster-whisper==1.2.1
+# av<15: в новых версиях убран параметр metadata_errors, faster-whisper 1.2.1 падает
+av==14.2.0
+piper-tts==1.8.0
